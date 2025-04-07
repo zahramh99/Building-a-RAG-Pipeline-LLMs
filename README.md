@@ -12,5 +12,4 @@ A Retrieval-Augmented Generation pipeline that enhances LLMs with external knowl
 ```bash
 pip install -r requirements.txt
 ## Usage
-```bash
 python main.py
